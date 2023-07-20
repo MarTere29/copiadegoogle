@@ -2,7 +2,7 @@
 
 ## ÍNDICE 
 
-* [INTRO](#)
+* [Intro](#)
 * [Qué construí](#)
 * [Objetivo del royecto](#)
   
